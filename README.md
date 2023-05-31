@@ -2,7 +2,7 @@
 
 Contents and description:
 
-ATL_Hwks_Programming Assessment.pdf - PDF with responses to questions
+ATL_Hawks_Programming Assessment.pdf - PDF with responses to questions
 
 Hawks Data Analysis_Xu_Max.ipynb - Jupyter notebook containing code
 
